@@ -396,11 +396,13 @@ tr:nth-child(odd) {
  
   }
   #restaurants-list .restaurant-img {
-     width:90%;
-    margin: 1& auto;
-    height: 200px;
-  }
-
+	background-color: #ccc;
+	display: block;
+	margin: 1% auto;
+	width: 90%;
+	height: 200px;
+	padding: 2px;
+       }
   #restaurants-list li {
     width: 90%;
     background-color: #fff;
