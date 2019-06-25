@@ -393,7 +393,10 @@ tr:nth-child(odd) {
 
   #restaurants-list img {
     border-radius: 15px;
-    width:90%;
+ 
+  }
+  #restaurants-list .restaurant-img {
+     width:90%;
     margin: 1& auto;
     height 200px;
   }
