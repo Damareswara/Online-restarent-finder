@@ -395,7 +395,7 @@ tr:nth-child(odd) {
     border-radius: 15px;
     width:90%;
     margin: 1& auto;
-    height 400px;
+    height 200px;
   }
 
   #restaurants-list li {
